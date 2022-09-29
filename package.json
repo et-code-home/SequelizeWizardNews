@@ -12,6 +12,9 @@
     "nodemon": "^1.14.7"
   },
   "dependencies": {
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "node-time-ago": "^1.0.0",
+    "html-template-tag": "^1.0.0",
+    "pg": "^8.8.0"
   }
 }
